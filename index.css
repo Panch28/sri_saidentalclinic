@@ -1,27 +1,27 @@
 /* ========================================
-   DENTAL CLINIC — PREMIUM DESIGN SYSTEM
+   SRI SAI DENTAL CLINIC — DESIGN SYSTEM
    ======================================== */
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --bg-primary: #0a0e27;
-  --bg-secondary: #0f1435;
-  --bg-card: rgba(15, 20, 53, 0.6);
-  --bg-glass: rgba(255, 255, 255, 0.03);
-  --accent: #00d4aa;
-  --accent-glow: rgba(0, 212, 170, 0.3);
-  --accent-2: #6c63ff;
-  --accent-2-glow: rgba(108, 99, 255, 0.3);
-  --text-primary: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.7);
-  --text-muted: rgba(255, 255, 255, 0.4);
-  --border: rgba(255, 255, 255, 0.06);
-  --border-hover: rgba(0, 212, 170, 0.3);
-  --gradient-1: linear-gradient(135deg, #00d4aa 0%, #6c63ff 100%);
-  --gradient-hero: radial-gradient(ellipse at 30% 50%, rgba(0, 212, 170, 0.15) 0%, transparent 60%),
-    radial-gradient(ellipse at 70% 20%, rgba(108, 99, 255, 0.1) 0%, transparent 50%);
-  --font-heading: 'Outfit', sans-serif;
-  --font-body: 'Inter', sans-serif;
+  --bg-primary: #f5f8ff;
+  --bg-secondary: #eef2fc;
+  --bg-card: #ffffff;
+  --bg-glass: rgba(26, 95, 255, 0.04);
+  --accent: #1a5fff;
+  --accent-glow: rgba(26, 95, 255, 0.25);
+  --accent-2: #00b4d8;
+  --accent-2-glow: rgba(0, 180, 216, 0.25);
+  --text-primary: #0f172a;
+  --text-secondary: #4a5568;
+  --text-muted: #94a3b8;
+  --border: rgba(26, 95, 255, 0.12);
+  --border-hover: rgba(26, 95, 255, 0.35);
+  --gradient-1: linear-gradient(135deg, #1a5fff 0%, #00b4d8 100%);
+  --gradient-hero: radial-gradient(ellipse at 30% 50%, rgba(26, 95, 255, 0.08) 0%, transparent 60%),
+    radial-gradient(ellipse at 70% 20%, rgba(0, 180, 216, 0.06) 0%, transparent 50%);
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'DM Sans', sans-serif;
   --section-pad: 120px;
   --container-width: 1200px;
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
